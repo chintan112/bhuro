@@ -15,6 +15,4 @@
 - Maven
   
 
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=chintansavaliya&show_icons=true&theme=radical)
 
