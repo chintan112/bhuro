@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning **Advanced Automation, Selenium, Java**
 - 💼 QA Engineer | Manual & Mobile Testing | Learning SDET
-- 📫 Reach me: [| [Email](chintansavaliya58@gmail.com)
+- 📫 Reach me: (chintansavaliya58@gmail.com)
 
 ## 🛠️ Skills
 - Manual Testing | Mobile Testing
