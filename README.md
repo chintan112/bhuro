@@ -1,2 +1,20 @@
-# Chintan
-QA person - Always learning new things and learning
+# Hi 👋, I'm Chintan Savaliya
+
+- 🌱 Currently learning **Advanced Automation, Selenium, Java**
+- 💼 QA Engineer | Manual & Mobile Testing | Learning SDET
+- 📫 Reach me: [| [Email](chintansavaliya58@gmail.com)
+
+## 🛠️ Skills
+- Manual Testing | Mobile Testing
+- Selenium, Java
+- Git, GitHub
+- API Testing
+- Jmeter
+- SQL
+- TestNG
+- Maven
+  
+
+## 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=chintansavaliya&show_icons=true&theme=radical)
+
